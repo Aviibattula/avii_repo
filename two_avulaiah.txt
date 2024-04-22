@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is from sub branch
+=======
+this file is from sub_branch this is file two
+>>>>>>> sub_branch
